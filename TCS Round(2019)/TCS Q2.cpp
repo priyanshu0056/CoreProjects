@@ -1,4 +1,4 @@
-//TCS Q2 Choclate Distribution
+//TCS Q2 Chocolate Distribution
 #include<iostream>
 using namespace std;
 int max(int l,int b)
